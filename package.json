@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "JSON stream index to operate over large files",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seykron/json-index"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
