@@ -18,6 +18,7 @@
   "author": "seykron <seykron@riseup.net>",
   "license": "GPL-2.0",
   "dependencies": {
+    "co": "^4.6.0",
     "debug": "^2.2.0",
     "q": "^1.4.1"
   }
